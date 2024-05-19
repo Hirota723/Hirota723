@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
