@@ -4,7 +4,7 @@ I'm a frontend engineer.
   <img src="https://komarev.com/ghpvc/?username=Hirota723" />
 </div>
 
-## Activities
+## Activity
 <div align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact&show_icons=true&theme=onedark" />
 　<img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
@@ -13,7 +13,7 @@ I'm a frontend engineer.
   [![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Skills (Programming Languages, Frameworks and Tools)
+## My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,tailwind,firebase,supabase,py,django,figma" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
