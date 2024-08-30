@@ -6,8 +6,8 @@ I'm a frontend engineer.
 
 ## Activity
 <div align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact&show_icons=true&theme=onedark" />
-　<img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact&show_icons=true&theme=onedark" />
+　<img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
 </div>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=onedark&column=8
