@@ -1,6 +1,11 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Hirota723" />
+</div>
+
 ## Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 - 🧑‍💻 I'm a frontend engineer.
 #
+
 <div align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact&show_icons=true&theme=onedark" />
 　<img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
