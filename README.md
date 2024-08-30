@@ -3,7 +3,6 @@ I'm a frontend engineer.
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Hirota723" />
 </div>
-<img src="https://komarev.com/ghpvc/?username=Hirota723" />
 
 ## Activities
 <div align="left"> 
