@@ -14,7 +14,7 @@ I'm a frontend engineer.
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,tailwind,firebase,supabase,py,django,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,tailwind,materialui,firebase,supabase,py,django,figma" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
