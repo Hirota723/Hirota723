@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hirota723&left_color=gray&right_color=blue)
+
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&show_icons=true&theme=onedark" />
 <img alt="github stats" height=200px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
