@@ -13,7 +13,7 @@ I'm a frontend engineer.
   [![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Skill (Programming Languages, Frameworks and Tools)
+## My Skills (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,tailwind,firebase,supabase,py,django,figma" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
