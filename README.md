@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm a frontend engineer.
 <div>
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=Hirota723" />
 </div>
 
 ## Activities
