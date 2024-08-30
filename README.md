@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 #
 <p align="left"> 
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&layout=compact&show_icons=true&theme=onedark" />
-　<img alt="github stats" height=200px" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
+　<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
-<p>
   [![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,tailwind,shadcn,firebase,supabase,py,django,figma" /> <br /><br />
