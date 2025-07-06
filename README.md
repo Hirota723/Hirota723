@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center"> 
+  <img alt="Top Langs" style="height: 180px; vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirota723&hide=HTML,Blade&layout=compact&theme=onedark">
+  <img alt="Top Langs" style="height: 180px; vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=Hirota723&count_private=true&theme=onedark&show_icons=true">
+</p>
 
-<!--
-**Hirota723/Hirota723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://ghprofiletrophy.neko-room.com/?username=Hirota723&theme=onedark&column=-1" />
+  </a>
+</p>
